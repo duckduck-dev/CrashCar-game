@@ -1,0 +1,86 @@
+body {
+    /*rgb(53, 51, 51)*/
+    background-color: rgb(30, 158, 19);
+    background-attachment: fixed;
+    margin: 0px;
+}
+#Lane {
+    position: absolute;
+    background-color: rgb(37, 37, 39);
+    width: 100px;
+    margin-left: 550px;
+    height: 100%;
+    border-left: 10px solid rgb(100, 61, 61);
+}
+#Lane1 {
+    position: absolute;
+    background-color: rgb(37, 37, 39);
+    width: 100px;
+    margin-left: 660px;
+    height: 100%;
+}
+#Lane2 {
+    position: absolute;
+    background-color: rgb(37, 37, 39);
+    width: 100px;
+    margin-left: 760px;
+    height: 100%;
+    border-right: 10px solid rgb(85, 51, 51);
+}
+
+
+#blueCar, #blueCar2, #blueCar3{
+    width : 30px;
+    position: absolute;
+    padding-left: 30px;
+}
+
+#redCar, #redCar2,#redCar3 {
+    width: 70px;
+    /*padding-top: 580px;*/
+    padding-left: 7px;
+    bottom: 0px;
+    position: absolute;
+}
+#PavementMarks {
+    position: absolute;
+    width: 50px;
+    height: 200px;
+    padding-left: 72.4px;
+    padding-top: 20px;
+}
+#PavementMarks1 {
+    position: absolute;
+    width: 50px;
+    height: 200px;
+    padding-left: 72.4px;
+    padding-top: 267px;
+}
+#PavementMarks2 {
+    position: absolute;
+    width: 50px;
+    height: 150px;
+    padding-left: 72.4px;
+    padding-top: 520px;
+}
+#PavementMarks3 {
+    position: absolute;
+    width: 50px;
+    height: 200px;
+    padding-left: 73.1px;
+    padding-top: 20px;
+}
+#PavementMarks4 {
+    position: absolute;
+    width: 50px;
+    height: 200px;
+    padding-left: 73.1px;
+    padding-top: 267px;
+}
+#PavementMarks5 {
+    position: absolute;
+    width: 50px;
+    height: 150px;
+    padding-left: 73.1px;
+    padding-top: 520px;
+}
